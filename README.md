@@ -24,3 +24,7 @@ Additional considerations:
     -   What needs to live in a persistence layer?
 -   Is there some state we need to initialize?
 -   Ask: should any of this work be abstracted into functions? (i.e., is the work complicated? can it be reused?)
+
+[wireframe](https://whimsical.com/web-build-bulletin-board-6PU6VE5ytbgz1KzHNUcVqE)
+
+placeholder image - https://www.flaticon.com/search?word=placeholder%20image
