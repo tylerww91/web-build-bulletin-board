@@ -72,9 +72,9 @@ main {
 
 #post-list {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
-    grid-auto-rows: 250px;
-    height: 800px;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-auto-rows: 300px;
+    height: 900px;
     width: 1800px;
     position: relative;
     margin: 0 auto;
@@ -91,8 +91,8 @@ li {
     /* grid-template-columns: repeat(auto-fill, minmax(275px, 1fr)); */
     /* grid-auto-rows: 400px; */
     /* gap: 10px; */
-    height: 200px;
-    width: 200px;
+    height: 280px;
+    width: 280px;
     background-color: gold;
     justify-items: center;
     align-items: center;
@@ -101,7 +101,13 @@ li {
 li h2,
 li p {
     /* padding: -5px 10px; */
+    margin: 10px;
 }
 
 li h2 {
+}
+
+li img {
+    height: 80px;
+    width: 80px;
 }
